@@ -1,0 +1,38 @@
+.navbar{
+    background-color: #085e7d !important;
+}
+
+.bg-color{
+    background-color: #085e7d !important;
+
+}
+
+.main{
+    background-color: #085e7d !important;
+
+}
+
+.card-img-top{
+    width: 100%;
+    object-fit: cover;
+}
+
+#map{
+    width: 100%;
+    
+}
+
+@media(min-width:763px){
+    #map{
+        width:450px;
+        
+    }
+}
+
+.br-10{
+    border-radius: 10px;
+}
+
+.product{
+    overflow: hidden;
+}
